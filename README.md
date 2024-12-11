@@ -1,5 +1,4 @@
 # Online_Shopping_Analysis_Using_Machine_Learning_Algorithms
-Online Shopping Analysis Using Machine Learning Algorithms! 🛒📊  
 This repository contains the implementation of a machine learning project aimed at analyzing online shopping behavior to derive actionable insights and predictions. The project involves preprocessing raw data, conducting exploratory data analysis (EDA), applying machine learning algorithms, and evaluating model performance.
 
 # Key Features
